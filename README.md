@@ -10,19 +10,19 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=pedrohxiv&color=3f51b5&bg_color=0d1117&point=f5f7fa&line=c9d1d9&theme=minimal&hide_border=true&area=true)
 
 <div align="center"> 
-  <h2>Main Skills</h2>
+  <h3>Main Skills</h3>
 </div>
 
 <div align="center"> 
-  <h2>Tools</h2>
+  <h3>Tools</h3>
 </div>
 
 <div align="center"> 
-  <h2>Other Knowledge</h2>
+  <h3>Other Knowledge</h3>
 </div>
 
 <div align="center"> 
-  <h2>Studying in this moment</h2>
+  <h3>Studying in this moment</h3>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f51b5&height=120&section=footer"/>
