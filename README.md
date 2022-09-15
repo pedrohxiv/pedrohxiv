@@ -17,20 +17,12 @@
 <a href="https://linkedin.com/in/pedrohxiv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div> 
 
-<div align="center"> 
-  <h4>Main Skills</h4>
-</div>
+#### Main Skills:
 
-<div align="center"> 
-  <h4>Tools</h4>
-</div>
+#### Tools:
 
-<div align="center"> 
-  <h4>Other Knowledge</h4>
-</div>
+#### Other Knowledge:
 
-<div align="center"> 
-  <h4>Studying in this moment</h4>
-</div>
+#### Studying in this moment:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f51b5&height=120&section=footer"/>
