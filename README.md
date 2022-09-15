@@ -9,6 +9,14 @@
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=pedrohxiv&color=3f51b5&bg_color=0d1117&point=f5f7fa&line=c9d1d9&theme=minimal&hide_border=true&area=true)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrohxiv&theme=onestar&row=1&column=6&no-bg=true&margin-w=10&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://linkedin.com/in/pedrohxiv" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+</div> 
+
 <div align="center"> 
   <h4>Main Skills</h4>
 </div>
