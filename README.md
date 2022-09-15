@@ -10,7 +10,7 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=pedrohxiv&color=3f51b5&bg_color=0d1117&point=f5f7fa&line=c9d1d9&theme=minimal&hide_border=true&area=true)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrohxiv&theme=onestar&row=1&column=6&no-bg=true&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrohxiv&theme=onestar&row=2&column=3&no-bg=true&margin-w=10&margin-h=15" />
 </p>
 
 <div align="center">  
