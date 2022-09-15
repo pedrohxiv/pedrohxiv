@@ -27,7 +27,7 @@
 
 <div>
 
-![Snake animation](https://github.com/pedrohxiv/pedrohxiv/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/pedrohxiv/pedrohxiv/blob/main/github-contribution-grid-snake.svg)
 
 </div>
 
