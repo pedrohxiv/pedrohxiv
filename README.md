@@ -25,4 +25,6 @@
   <h2>Studying in this moment</h2>
 </div>
 
+![Snake animation](https://github.com/pedrohxiv/pedrohxiv/blob/output/github-contribution-grid-snake.svg)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f51b5&height=120&section=footer"/>
