@@ -1,16 +1,28 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f51b5&height=120&section=header"/>
 
-<!--
-**pedrohxiv/pedrohxiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3f51b5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique!;I'm+21+years+old;I'm+from+Formiga,+MG;I+study+web+development+at+Trybe+🚀;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrohxiv&show_icons=true&count_private=true&hide_border=true&title_color=3f51b5&icon_color=3f51b5&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohxiv&layout=compact&hide_border=true&title_color=3f51b5&text_color=3f51b5&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Contribution](https://activity-graph.herokuapp.com/graph?username=pedrohxiv&color=3f51b5&bg_color=0d1117&point=f5f7fa&line=c9d1d9&theme=minimal&hide_border=true&area=true)
+
+<div align="center"> 
+  <h2>Main Skills</h2>
+</div>
+
+<div align="center"> 
+  <h2>Tools</h2>
+</div>
+
+<div align="center"> 
+  <h2>Other Knowledge</h2>
+</div>
+
+<div align="center"> 
+  <h2>Studying in this moment</h2>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3f51b5&height=120&section=footer"/>
